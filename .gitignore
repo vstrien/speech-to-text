@@ -295,3 +295,6 @@ querydb*.json
 # Test files
 *.mp3
 *.m4a
+
+
+local.settings.json
